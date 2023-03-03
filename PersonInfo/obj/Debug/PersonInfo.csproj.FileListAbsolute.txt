@@ -1,0 +1,4 @@
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonInfo.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonInfo.pdb
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonInfo\obj\Debug\PersonInfo.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonInfo\obj\Debug\PersonInfo.pdb

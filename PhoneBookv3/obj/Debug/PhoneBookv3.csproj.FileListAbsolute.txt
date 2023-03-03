@@ -1,0 +1,12 @@
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PhoneBookv3.exe.config
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PhoneBookv3.exe
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PhoneBookv3.pdb
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.csprojAssemblyReference.cache
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.FrmAbout.resources
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.FrmMain.resources
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.FrmPersonMgr.resources
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.Properties.Resources.resources
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.csproj.GenerateResource.cache
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.csproj.CopyComplete
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.exe
+C:\Users\UsEr\Desktop\PhoneBookv3\PhoneBookv3\obj\Debug\PhoneBookv3.pdb

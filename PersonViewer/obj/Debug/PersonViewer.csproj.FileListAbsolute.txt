@@ -1,0 +1,6 @@
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonViewer.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonViewer.pdb
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonViewer\obj\Debug\PersonViewer.csprojAssemblyReference.cache
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonViewer\obj\Debug\PersonViewer.csproj.CopyComplete
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonViewer\obj\Debug\PersonViewer.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonViewer\obj\Debug\PersonViewer.pdb
