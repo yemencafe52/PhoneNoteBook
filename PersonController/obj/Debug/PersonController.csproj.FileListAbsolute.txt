@@ -1,0 +1,8 @@
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonController.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonController.pdb
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonController.dll.CodeAnalysisLog.xml
+C:\Users\UsEr\Desktop\PhoneBookv3\OutPut\debug\PersonController.dll.lastcodeanalysissucceeded
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonController\obj\Debug\PersonController.csprojAssemblyReference.cache
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonController\obj\Debug\PersonController.csproj.CopyComplete
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonController\obj\Debug\PersonController.dll
+C:\Users\UsEr\Desktop\PhoneBookv3\PersonController\obj\Debug\PersonController.pdb
